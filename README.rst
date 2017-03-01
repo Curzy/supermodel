@@ -12,7 +12,7 @@ This is under development, You should install via Github.
 
 .. sourcecode:: bash
 
-   ~ $ pip install git+https://github.com/Flative/supermodel.git
+   ~ $ pip install git+https://github.com/Parkayun/supermodel.git
 
 
 Quick start
